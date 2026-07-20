@@ -144,4 +144,4 @@ Este projeto faz parte da minha evolução em automação de testes, com foco em
 Analista de Sistemas com experiência em QA, testes funcionais, automação de testes e integração de sistemas.
 
 * GitHub: https://github.com/ViniciusRdeOliveira
-* LinkedIn: [www.linkedin.com/in/viniciusribeirodeoliveira](http://www.linkedin.com/in/viniciusribeirodeoliveira)
+* LinkedIn: [www.linkedin.com/in/vinicius-ribeiro-de-oliveira](http://www.linkedin.com/in/vinicius-ribeiro-de-oliveira)
